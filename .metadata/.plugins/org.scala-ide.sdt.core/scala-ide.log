@@ -1,0 +1,1 @@
+2015-07-27 10:49:33,661 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Java Model Exception: Java Model Status [Main$ [in [Working copy] Main.scala [in scala [in src [in scala]]]] does not exist]
